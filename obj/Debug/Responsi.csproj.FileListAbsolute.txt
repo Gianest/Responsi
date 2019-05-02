@@ -1,0 +1,6 @@
+c:\users\gk\documents\visual studio 2015\Projects\Responsi\Responsi\bin\Debug\Responsi.exe.config
+c:\users\gk\documents\visual studio 2015\Projects\Responsi\Responsi\bin\Debug\Responsi.exe
+c:\users\gk\documents\visual studio 2015\Projects\Responsi\Responsi\bin\Debug\Responsi.pdb
+c:\users\gk\documents\visual studio 2015\Projects\Responsi\Responsi\obj\Debug\Responsi.csprojResolveAssemblyReference.cache
+c:\users\gk\documents\visual studio 2015\Projects\Responsi\Responsi\obj\Debug\Responsi.exe
+c:\users\gk\documents\visual studio 2015\Projects\Responsi\Responsi\obj\Debug\Responsi.pdb
